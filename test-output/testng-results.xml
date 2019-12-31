@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24221" started-at="2019-12-31T06:04:40Z" finished-at="2019-12-31T06:05:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24221" started-at="2019-12-31T06:04:40Z" finished-at="2019-12-31T06:05:04Z">
+      <class name="excel.excel.Extentreport">
+        <test-method status="PASS" signature="ExtentReportdemo()[pri:0, instance:excel.excel.Extentreport@28feb3fa]" name="ExtentReportdemo" duration-ms="24193" started-at="2019-12-31T11:34:40Z" finished-at="2019-12-31T11:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReportdemo -->
+      </class> <!-- excel.excel.Extentreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
